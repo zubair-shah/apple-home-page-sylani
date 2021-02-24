@@ -74,10 +74,8 @@ nav ul{
     color: grey;
     padding: 12px 0px;
 }
-.main-banner .img{
 
-}
-.main-banner img{
-    
+#banner-1{
+    background-color: #000;
 }
 
